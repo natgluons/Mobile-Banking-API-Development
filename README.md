@@ -11,4 +11,4 @@ In this project, I took on the challenge of developing a secure and efficient AP
 - Enhanced user engagement and application security through feature implementations.
 - Collaborated on unit and integration testing.
 
-Tools: JavaScript, GoLang, Version Control System, Git, Java Programming, Object Oriented Porgamming (OOP), Gin Gonic, Gorm, JWT, SQL
+Tools: GoLang, JavaScript, Gin Gonic, Gorm, JWT, SQL
